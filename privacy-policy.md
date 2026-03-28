@@ -41,7 +41,8 @@ permalink: /privacy-policy/
 
 ### 联系我们
 
-如有隐私相关问题，请提交 Issue：[GitHub Issues](https://github.com/YuanGuangsheng/homegain-site/issues)
+如有隐私相关问题，请通过以下方式联系：  
+GitHub Issues：https://github.com/YuanGuangsheng/homegain-site/issues
 
 ---
 
@@ -76,4 +77,10 @@ To delete all your data, simply uninstall the app from your iOS device. The oper
 
 ### Contact
 
-For privacy-related questions, please open an issue: [GitHub Issues](https://github.com/YuanGuangsheng/homegain-site/issues)
+For privacy-related questions, please contact us via:  
+GitHub Issues: https://github.com/YuanGuangsheng/homegain-site/issues
+
+---
+
+> **已发布页面 / Published URL**  
+> https://yuanguangsheng.github.io/homegain-site/privacy-policy/
