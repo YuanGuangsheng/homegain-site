@@ -1,6 +1,5 @@
 ---
 layout: home
-title: HomeGain
 ---
 
 # HomeGain — 家庭资产管理
